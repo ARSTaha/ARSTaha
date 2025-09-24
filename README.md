@@ -1,4 +1,4 @@
-### Hi there, I'm [Muhammet Taha ARSLAN]! 👋
+### Hi there, I'm Muhammet Taha ARSLAN! 👋
 
 I am a Computer Engineering student from Turkey, driven by a passion for the intersection of **Cybersecurity, Artificial Intelligence, and Mobile Development**. My ultimate goal is to become an entrepreneur and build innovative solutions that solve real-world security challenges.
 
