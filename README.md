@@ -6,7 +6,7 @@ I believe in a hands-on approach to learning, constantly building and exploring 
 
 - 🔭 My long-term focus is on building a deep expertise in **Cybersecurity**, laying the groundwork to one day lead my own security-focused company.
 - 🌱 I’m currently learning **Mobile App Development** and exploring how to integrate **AI/ML models** into secure and intelligent applications.
-- 📫 How to reach me: **https://www.linkedin.com/in/muhammet-taha-arslan-875279322/**
+- 📫 How to reach me: **[Linkendin](https://www.linkedin.com/in/muhammet-taha-arslan-875279322/)**
 <br/>
 
 ---
